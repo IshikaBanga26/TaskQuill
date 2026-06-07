@@ -70,7 +70,7 @@ PORT=5000
 npm run dev
 ```
 
-Backend runs on `http://localhost:5000`
+Backend runs on `https://taskquill.onrender.com`
 
 ### Frontend Setup
 
