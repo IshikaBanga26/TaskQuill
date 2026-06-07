@@ -2,7 +2,7 @@
 
 A full-stack task management web application built with the MERN stack. Users can register, log in securely, and manage their daily tasks — add, edit, delete, and mark them as completed or pending.
 
-Live Demo : 
+Live Demo : https://taskquill.pages.dev
 
 ---
 
@@ -80,7 +80,7 @@ npm install
 npm run dev
 ```
 
-Frontend runs on `http://localhost:5173`
+Frontend runs on `https://taskquill.pages.dev`
 
 ---
 
